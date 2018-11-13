@@ -1,0 +1,32 @@
+footer li {
+  margin-right: 24px;
+}
+footer a {
+  color: #000000;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+footer ul {
+  display: flex;
+}
+#footer-wrapper  {
+  position: relative;
+  clear: both;
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+  background: transparent;
+  margin: 0px;
+  padding: 5px 16px 5px 10px ;
+  font-family: 'Fira Sans', sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: capitalize;
+  font-size: small;
+  width: 100%;
+}

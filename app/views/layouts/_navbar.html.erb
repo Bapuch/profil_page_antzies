@@ -1,0 +1,29 @@
+<header>
+  <nav>
+    <div class="">
+      <ul>
+          <li><%= image_tag "ant-logo.svg", id: 'img-logo' %></li>
+          <li>antzies</li>
+      </ul>
+    </div>
+    <div id="searchbar-wrapper">
+      <div id="searchbar-container">
+        <%= image_tag "ant-button.png" , id: "img-button", type: 'submit' %>
+        <input type="text" placeholder="Search for co-antz.." >
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn"> <%= image_tag "ant-dropdown.png", id: "img-dropdown" %> </button>
+      <div class="dropdown-content">
+        <a href="#">Colony</a>
+        <a href="#">Co-Antz</a>
+        <a href="#">Queen</a>
+      </div>
+    </div>
+  </nav>
+
+  <div id="btn-wrapper">
+    <button id="btn-work">work with marco</button>
+  </div>
+
+</header>
