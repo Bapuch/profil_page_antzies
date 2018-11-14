@@ -1,24 +1,17 @@
-# README
+## Exercice du Jeudi 13 Novembre - HTML/CSS profil page
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Greetings
+--------------------------------------------------
+Dear moussaillon,
 
-Things you may want to cover:
+Attaché à ce repo se trouve l'app <strong>[antzies - ants can facebook now](https://antzies.herokuapp.com/)</strong>
 
-* Ruby version
+### Travail réalisé par
+--------------------------------------------------
+Noms | Pseudo Slack
+------------ | -------------
+Maëlle Ngachili|@Maëlle
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Bonne correction ! :poop:
+--------------------------------------------------

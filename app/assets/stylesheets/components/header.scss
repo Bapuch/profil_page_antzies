@@ -25,6 +25,9 @@ header {
   font-size: 1em;
   width: 175px;
   box-shadow: 2px 3px 10px #203660;
+  text-transform: capitalize;
+  color: rgb(7, 40, 63);
+  font-weight: bold;
 }
 #btn-work:hover {
   color: rgb(5, 141, 187);
@@ -32,4 +35,7 @@ header {
   font-weight: bold;
   border: rgb(143, 139, 139);
   box-shadow: 3px 5px 8px black;
+  background-image: asset-url("antz.gif");
+  background-size: cover;
+  background-position: center;
 }
